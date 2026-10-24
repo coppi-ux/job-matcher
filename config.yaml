@@ -1,0 +1,16 @@
+profile:
+  target_roles:
+    - machine learning intern
+    - data science intern
+    - data analyst intern
+    - AI engineer intern
+  locations:
+    - Bandung
+    - Remote
+  languages: [en, id]
+
+scraping:
+  delay_seconds: 3
+  user_agent: "job-matcher-personal-project"
+
+sources: [] # we'll fill this in at Step 2
