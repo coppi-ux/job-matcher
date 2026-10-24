@@ -7,10 +7,8 @@ profile:
   locations:
     - Bandung
     - Remote
+  skills: [] # fill in your real skills later
   languages: [en, id]
 
-scraping:
-  delay_seconds: 3
-  user_agent: "job-matcher-personal-project"
-
-sources: [] # we'll fill this in at Step 2
+ocr:
+  languages: [en, id]
